@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi I'm Jordan 👋
+I love designing and building in numerous mediums. I’ve most recently been focusing on coding in Javascript, trying different libraries and frameworks such as React and Next.js.
+I've also benefited greatly from applying agile working practices to my projects. I learnt this during my time at “School of Code” and intensive coding bootcamp.
 
+Below are some of the recent projects ive made.
+
+
+"School of Code" Final project
+https://reading-room-app.vercel.app/
 <!--
 **Jordan-Walters-23/Jordan-Walters-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
