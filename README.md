@@ -9,7 +9,9 @@ Below are some of the recent projects I've made.
 
 # Projects
 ### "School of Code" Final project <br>
-description <br>
+Project summary: In a team of 6 we spent 4 weeks designing and building a full-stack application 
+using Next.js, Chakra, and Supabase. We defined our problem statement, created wireframes, and took an agile approach to user and stakeholder feedback.
+
 https://reading-room-app.vercel.app/ <br>
 ![Final project UI progression](https://github.com/Jordan-Walters-23/Jordan-Walters-23/blob/main/UI%20progression.gif) <br>
 
