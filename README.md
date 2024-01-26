@@ -1,5 +1,5 @@
 #### Hi I'm Jordan 😄
-I enjoy coding in Javascript, trying different libraries and frameworks such as React and Next.js. I've also benefited greatly from applying agile working practices to team and individual projects. I learnt this during my time at “School of Code” an intensive coding Bootcamp.
+I love coding and the creative solutions that can be solved with it, I am currently using Javascript and exploring various libraries and frameworks, like React and Next.js. I have experience applying agile working practices to both team and individual projects, which I learned during my time at an Intensive coding Bootcamp "School of Code".
 
 Alongside coding, I love designing and building in numerous mediums including electronics, clothing and mechanical assembly.
 
