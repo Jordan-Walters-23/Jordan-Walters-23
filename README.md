@@ -10,16 +10,22 @@ Below are some of my recent projects.
 Project summary: In a team of 6 we spent 4 weeks designing and building a full-stack application 
 using Next.js, Chakra, and Supabase. We defined our problem statement, created wireframes, and took an agile approach to user and stakeholder feedback.
 
-How to use the app:<br>  Sign up for the app and verify your account by clicking the link in the verification email.
-
-For guidance within our app please watch this short video 
-
 Key features
+
 Functionality
 
-Try out our [App](https://reading-room-app.vercel.app/) for yourself <br>
-<br>
-![Final project UI progression](https://github.com/Jordan-Walters-23/Jordan-Walters-23/blob/main/UI%20progression.gif) <br>
+Try out our [App](https://reading-room-app.vercel.app/) for yourself
+
+<b>How to use the app:</b> Sign up for the app and verify your account by clicking the link in the verification email.
+
+For guidance within our app please watch the demo below
+
+
+![The Reading Room App (1)](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5)
+
+![Final project UI progression](https://github.com/Jordan-Walters-23/Jordan-Walters-23/blob/main/UI%20progression.gif)
+
+
 
 ### "The Fusion Group" Christmas contributor App
 description <br>
