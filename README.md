@@ -23,7 +23,14 @@ For guidance within our app please watch the demo below
 
 ![The Reading Room App (1)](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5)
 
-![Final project UI progression](https://github.com/Jordan-Walters-23/Jordan-Walters-23/blob/main/UI%20progression.gif)
+The pictures below show the progression of the apps UI
+
+![Log in](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b)
+![Log In Page](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa)
+![Group 37060](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3)
+![Group 37061](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/46fe2a7d-f113-4d74-bc36-def551eca4e5)
+![Screenshot 2024-01-30 163942](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf)
+
 
 
 
