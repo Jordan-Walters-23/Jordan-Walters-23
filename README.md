@@ -9,12 +9,12 @@ Below are some of my recent projects.
 ### "School of Code" Final project <be>
 <b>Project summary:</b> In a team of 6 we spent 4 weeks designing and building a full-stack application 
 using Next.js, Chakra, and Supabase. We defined our problem statement, created wireframes, and took an agile approach to user and stakeholder feedback while building the app.
-
+<br></br>
 <b>Key features:</b> 
-* Homepage: Displays previous reading note
-* Reading Room page: stopwatch and note-taking form features
-* Avatar page: Customise your avatar feature 
-
+* Homepage - Displays previous reading note
+* Reading Room page - stopwatch and note-taking form features
+* Avatar page - Customise your avatar feature
+<br/>
 <b>Functionality:</b> We designed this app To help children in key stages 1 and 2 build positive reading habits with the help of a guardian or teacher. The App serves as an alternative to a paper reading record. We added an element of gamification with the avatar page because it has the potential to incentivise and make reading more enjoyable for the user.  
 
 <b>Tech stack:</b>
