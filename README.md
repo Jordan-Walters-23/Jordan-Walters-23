@@ -31,7 +31,7 @@ Try out our [App](https://reading-room-app.vercel.app/) for yourself
 
 <b>Documentation:</b> The following are links to documentation for our tech stack, so you can learn more about our app and even contribute if you like. Next.js https://nextjs.org/docs/getting-started/installation, Chakra UI https://chakra-ui.com/getting-started, Supabase https://supabase.com/docs/reference/javascript/initializing
 
-<br></br>
+<!-----  <br></br>
 ### "The Fusion Group" Christmas contributor App
 description <br>
 link <br>
@@ -40,4 +40,4 @@ media <br>
 ### "School of Code" Mid-term project
 description <br>
 link <br>
-media <br>
+media <br>  ------>
