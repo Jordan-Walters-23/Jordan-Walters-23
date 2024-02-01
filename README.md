@@ -15,7 +15,7 @@ using Next.js, Chakra, and Supabase. We defined our problem statement, created w
 * Reading Room page: stopwatch and note-taking form features
 * Avatar page: Customise your avatar feature 
 
-<b>Functionality:</b>
+<b>Functionality:</b> We designed this app To help children in key stages 1 and 2 build positive reading habits with the help of a guardian or teacher. The App serves as an alternative to a paper reading record. We added an element of gamification with the avatar page because it has the potential to incentivise and make reading more enjoyable for the user.  
 
 <b>Tech stack:</b>
 
