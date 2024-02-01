@@ -27,11 +27,11 @@ Try out our [App](https://reading-room-app.vercel.app/) for yourself
 | ----------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------  |
 |  <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/ae7fa1c7-9cfa-452b-ac34-e1561d10f9b1" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="290"> | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5" height="400"> |
 
-<br>Contribution:</br>
+<b>Contribution:</b> I pair-programmed the page structure using Next.js and Chakra. Designed an iterated the app UI. Ensured continuity between the front and a back-end of each feature during the build and while reviewing pull requests.
 
-<br>Code Structure:</br>
+<b>Code Structure:</b>
 
-<br>Documentation:</br>
+<b>Documentation:</b>
 
 <br></br>
 ### "The Fusion Group" Christmas contributor App
