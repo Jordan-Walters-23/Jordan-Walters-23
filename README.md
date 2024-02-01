@@ -10,6 +10,15 @@ Below are some of my recent projects.
 <b>Project summary:</b> In a team of 6 we spent 4 weeks designing and building a full-stack application 
 using Next.js, Chakra, and Supabase. We defined our problem statement, created wireframes, and took an agile approach to user and stakeholder feedback while building the app. [Click here](https://github.com/SchoolOfCode/reading-room-app) to see the app's repository and how we solved our problem statement. 
 
+Try out the [App](https://reading-room-app.vercel.app/) for yourself
+
+<b>How to use:</b> Sign up and verify your account by clicking the link in the verification email. For in-app guidance please watch the <b>tutorial</b> below.
+
+| Development of UI throughout the project| App tutorial                                                                                                                           |
+| ----------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------  |
+|  <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/ae7fa1c7-9cfa-452b-ac34-e1561d10f9b1" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="250"> | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5" height="300"> |
+
+
 <b>Functionality:</b> We designed this app To help children in key stages 1 and 2 build positive reading habits with the help of a guardian or teacher. The App serves as an alternative to a paper reading record. We added an element of gamification with the avatar page because it has the potential to incentivise and make reading more enjoyable for the user.
 
 <b>Tech stack:</b> Next.js, Chakra, Supabase, Thunder Client, and Playwright
@@ -19,13 +28,6 @@ using Next.js, Chakra, and Supabase. We defined our problem statement, created w
 * Reading Room page - stopwatch and note-taking form features
 * Avatar page - "Customise your avatar" feature
 
-Try out our [App](https://reading-room-app.vercel.app/) for yourself
-
-<b>How to use:</b> Sign up and verify your account by clicking the link in the verification email. For in-app guidance please watch the <b>tutorial</b> below.
-
-| Development of UI throughout the project| App tutorial                                                                                                                           |
-| ----------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------  |
-|  <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/ae7fa1c7-9cfa-452b-ac34-e1561d10f9b1" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="250"> | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5" height="300"> |
 
 <b>Contribution:</b> I pair-programmed the page structure using Next.js and Chakra. Designed and iterated the app UI. Ensured continuity between the front and a back-end of each feature during the build and while reviewing pull requests.
 
