@@ -10,17 +10,20 @@ Below are some of my recent projects.
 <b>Project summary:</b> In a team of 6 we spent 4 weeks designing and building a full-stack application 
 using Next.js, Chakra, and Supabase. We defined our problem statement, created wireframes, and took an agile approach to user and stakeholder feedback while building the app.
 
-Key features
+<b>Key features:</b> 
+* Homepage: Displays previous reading note
+* Reading Room page: stopwatch and note-taking form features
+* Avatar page: Customise your avatar feature 
 
-Functionality
+<b>Functionality:</b>
 
-Tech stack
+<b>Tech stack:</b>
 
 Try out our [App](https://reading-room-app.vercel.app/) for yourself
 
-<b>How to use the app:</b> Sign up for the app and verify your account by clicking the link in the verification email.
+<b>How to use:</b> Sign up for the app and verify your account by clicking the link in the verification email.
 
-For guidance within our app please watch the demo below
+For guidance within the app please watch the demo below
 
 
 ![The Reading Room App (1)](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5)
