@@ -27,6 +27,13 @@ Try out our [App](https://reading-room-app.vercel.app/) for yourself
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5" height="400"> | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/46fe2a7d-f113-4d74-bc36-def551eca4e5" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="290"> |
 
+<br>Contribution:</br>
+
+<br>Code Structure:</br>
+
+<br>Documentation:</br>
+
+<br></br>
 ### "The Fusion Group" Christmas contributor App
 description <br>
 link <br>
