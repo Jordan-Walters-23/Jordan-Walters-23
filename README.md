@@ -9,32 +9,33 @@ Below are some of my recent projects.
 ### "School of Code" Final project <be>
 <b>Project summary:</b> In a team of 6 we spent 4 weeks designing and building a full-stack application 
 using Next.js, Chakra, and Supabase. We defined our problem statement, created wireframes, and took an agile approach to user and stakeholder feedback while building the app.
-<br></br>
+
+<b>Functionality:</b> We designed this app To help children in key stages 1 and 2 build positive reading habits with the help of a guardian or teacher. The App serves as an alternative to a paper reading record. We added an element of gamification with the avatar page because it has the potential to incentivise and make reading more enjoyable for the user.
+
+<b>Tech stack:</b> Next.js, Chakra, Supabase, Thunder Client, and Playwright
+
 <b>Key features:</b> 
 * Homepage - Displays previous reading note
 * Reading Room page - stopwatch and note-taking form features
-* Avatar page - Customise your avatar feature
-<br/>
-<b>Functionality:</b> We designed this app To help children in key stages 1 and 2 build positive reading habits with the help of a guardian or teacher. The App serves as an alternative to a paper reading record. We added an element of gamification with the avatar page because it has the potential to incentivise and make reading more enjoyable for the user.  
-
-<b>Tech stack:</b>
+* Avatar page - "Customise your avatar" feature
 
 Try out our [App](https://reading-room-app.vercel.app/) for yourself
 
 <b>How to use:</b> Sign up for the app and verify your account by clicking the link in the verification email.
 
-For guidance within the app please watch the demo below
+| Please watch the app tutorial below                                                                                                   | Development of UI throughout project |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5" height="400"> | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/46fe2a7d-f113-4d74-bc36-def551eca4e5" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="290"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="290"> |
 
 
-![The Reading Room App (1)](https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5)
+Please watch the app tutorial below &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development of UI throughout project                       
 
-The pictures below show the progression of the apps UI
-
-<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="400">
-<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="400">
-<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="400">
-<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/46fe2a7d-f113-4d74-bc36-def551eca4e5" height="400">
-<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="400">
+<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5" height="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="300">
+<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/46fe2a7d-f113-4d74-bc36-def551eca4e5" height="300">
+<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="300">
+<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="300">
+<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="300">
 
 
 
