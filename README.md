@@ -12,7 +12,7 @@ Junior Software Engineer
 
 I love coding and the creative solutions that can be solved with it, I am currently using Javascript and exploring various libraries and frameworks, like React and Next.js. I have experience applying agile working practices to both team and individual projects, which I learned during my time at an Intensive 16-week coding Bootcamp called "School of Code".
 
-In addition to coding, I enjoy designing and building in areas like electronics, clothing, and mechanical assembly. I am eager to use my skills to build Web Dev, IoT and Robotics projects. I’m looking for opportunities to grow as a developer and collaborate with teams to develop innovative products. If you're interested in working together, feel free to contact me through email @Jordanwalters681+tech@googlemail.com or [LinkedIn](https://www.linkedin.com/in/jordan-w-66aa96151/).
+In addition to coding, I enjoy designing and building in areas like electronics, clothing, and mechanical assembly. I am eager to use my skills to build Web Dev, IoT and Robotics projects. I’m looking for opportunities to grow as a developer and collaborate with teams to develop innovative products. If you're interested in working together, feel free to contact me.
 
 Below are some of my recent projects.
 
