@@ -19,7 +19,14 @@ In addition to coding, I enjoy designing and building in areas like electronics,
 Below are some of my recent projects.
 
 # Projects
-### "School of Code" Final project <be>
+### "Guess the song" (In progress)
+<b>Project summary:</b> This app idea came from my passion for language learning and music. I wanted to find a way to enjoy both in a lighthearted way that’s personalised to me. I often find myself looking up song lyrics and finding a new appreciation for the song and artist. Users will also be able to learn more diverse vocab which is beyond what they teach on most language learning apps.
+|App Wireframe|      |
+| ----------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------  |
+|  <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="250"> |
+Connect with me on [LinkedIn](https://www.linkedin.com/in/-jordan-walters) to follow the progress of this App
+
+### "School of Code" Final project
 <b>Project summary:</b> In a team of 6 we spent 4 weeks designing and building a full-stack application 
 using Next.js, Chakra, and Supabase. We defined our problem statement, created wireframes, and took an agile approach to user and stakeholder feedback while building the app. [Click here](https://github.com/SchoolOfCode/reading-room-app) to see the app's repository and how we solved our problem statement. 
 
