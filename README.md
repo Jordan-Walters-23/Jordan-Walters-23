@@ -34,7 +34,7 @@ In addition to coding, I enjoy designing and building in areas like electronics,
 <b>Project summary:</b> This app idea came from my passion for language learning and music. I wanted to find a way to enjoy both in a lighthearted way that’s personalised to me. I often find myself looking up song lyrics and finding a new appreciation for the song and artist. Users will also be able to learn more diverse vocab which is beyond what they teach on most language learning apps.
 |App Wireframe|
 | ------------|
-| <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/673d677a-5403-46f6-8fab-9bc298c3f4bc" height="300"> |
+| <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/673d677a-5403-46f6-8fab-9bc298c3f4bc"> |
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/-jordan-walters) to follow the progress of this App
 
@@ -48,7 +48,7 @@ Try out the [App](https://reading-room-app.vercel.app/) for yourself
 
 | Development of UI throughout the project| App tutorial                                                                                                                           |
 | ----------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------  |
-|  <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/ae7fa1c7-9cfa-452b-ac34-e1561d10f9b1" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="250"> | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5" height="300"> |
+|  <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/c66294b3-fbfb-44ac-994d-afb418cbe6fa" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/7569bfe9-3fe6-4e1a-b18f-149cd90db3f3" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/ae7fa1c7-9cfa-452b-ac34-e1561d10f9b1" height="250"> <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/81b0b908-0810-47d5-af63-664476ed34cf" height="250"> | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/4106ddaa-7849-433f-a83d-cdb4964a40d5"> |
 
 
 <b>Functionality:</b> We designed this app To help children in key stages 1 and 2 build positive reading habits with the help of a guardian or teacher. The App serves as an alternative to a paper reading record. We added an element of gamification with the avatar page because it has the potential to incentivise and make reading more enjoyable for the user.
