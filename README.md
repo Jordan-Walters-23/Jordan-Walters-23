@@ -21,9 +21,10 @@ Below are some of my recent projects.
 # Projects
 ### "Guess the song" (In progress)
 <b>Project summary:</b> This app idea came from my passion for language learning and music. I wanted to find a way to enjoy both in a lighthearted way that’s personalised to me. I often find myself looking up song lyrics and finding a new appreciation for the song and artist. Users will also be able to learn more diverse vocab which is beyond what they teach on most language learning apps.
-|App Wireframe|      |
-| ----------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------  |
-|  <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/973ac8b1-b211-4fa6-94b8-b444d0602a1b" height="250"> |
+|App Wireframe|
+| ------------|
+| <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/673d677a-5403-46f6-8fab-9bc298c3f4bc" height="300"> |
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/-jordan-walters) to follow the progress of this App
 
 ### "School of Code" Final project
