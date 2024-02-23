@@ -16,7 +16,7 @@
             <td rowspan=3>🌍 I'm based in Halesowen, West Midlands</td>
         </tr>
         <tr>
-            <td>📫 Jordanwalters681+tech@googlemail.com </td>
+            <td>📫 <a href="mailto:Jordanwalters681+tech@googlemail">Jordanwalters681+tech@googlemail</a> </td>
         </tr>
         <tr>
             <td>🤝 https://www.linkedin.com/in/-jordan-walters</td>
