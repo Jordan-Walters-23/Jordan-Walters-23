@@ -27,18 +27,18 @@
 </br>
 I love coding and the creative solutions that can be solved with it, I am currently using Javascript and exploring various libraries and frameworks, like React and Next.js. I have experience applying agile working practices to both team and individual projects, which I learned during my time at an Intensive 16-week coding Bootcamp called "School of Code".
 
-In addition to coding, I enjoy designing and building in areas like electronics, clothing, and mechanical assembly. I am eager to use my skills to build Web Dev, IoT and Robotics projects. I’m looking for opportunities to grow as a developer and collaborate with teams to develop innovative products. If you're interested in working together, feel free to contact me.
+In addition to coding, I enjoy designing and building in areas like electronics, and mechanical assembly. I am eager to use my skills to build Web Dev, IoT and Robotics projects. I’m looking for opportunities to grow as a developer and collaborate with teams to develop innovative products. If you're interested in working together, feel free to contact me.
 
 # Projects
-### "Guess the song" (In progress)
-<b>Project summary:</b> This app idea came from my passion for language learning and music. I wanted to find a way to enjoy both in a lighthearted way that’s personalised to me. I often find myself looking up song lyrics and finding a new appreciation for the song and artist. Users will also be able to learn more diverse vocab which is beyond what they teach on most language learning apps.
+## "Guess the song" (In progress)
+<b>Project summary:</b> This app idea came from my passion for language learning and music. I wanted to find a way to enjoy both in a lighthearted way that’s personalised to me. I often find myself looking up song lyrics and finding a new appreciation for the song and artist. Users will also be able to learn more diverse vocab which is beyond what they teach on most language learning apps. [App Repo](https://github.com/Jordan-Walters-23/guessthesong)
 |App Wireframe|
 | ------------|
 | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/673d677a-5403-46f6-8fab-9bc298c3f4bc"> |
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/-jordan-walters) to follow the progress of this App
 
-### "School of Code" Final project
+## "School of Code" Final project
 <b>Project summary:</b> In a team of 6 we spent 4 weeks designing and building a full-stack application 
 using Next.js, Chakra, and Supabase. We defined our problem statement, created wireframes, and took an agile approach to user and stakeholder feedback while building the app. [Click here](https://github.com/SchoolOfCode/reading-room-app) to see the app's repository and how we solved our problem statement. 
 
