@@ -64,14 +64,3 @@ Try out the [App](https://reading-room-app.vercel.app/) for yourself
 <b>Contribution:</b> I pair-programmed the page structure using Next.js and Chakra. Designed and iterated the app UI. Ensured continuity between the front and a back-end of each feature during the build and while reviewing pull requests.
 
 <b>Documentation:</b> The following are links to documentation for our tech stack, so you can learn more about our app and even contribute if you like. Next.js https://nextjs.org/docs/getting-started/installation, Chakra UI https://chakra-ui.com/getting-started, Supabase https://supabase.com/docs/reference/javascript/initializing
-
-<!-----  <br></br>
-### "The Fusion Group" Christmas contributor App
-description <br>
-link <br>
-media <br>
-
-### "School of Code" Mid-term project
-description <br>
-link <br>
-media <br>  ------>
