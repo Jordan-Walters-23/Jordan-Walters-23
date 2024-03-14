@@ -1,28 +1,52 @@
-#### Hi👋 I'm Jordan
+<div align="center">
+    <h1>Jordan Walters</h1>
+</div>
 
 
-<table>
-    <thead>
-        <tr>
-            <th colspan=2>Junior Software Engineer</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>📝 HTML, CSS, JavaScript, React, Next.js</td>
-            <td>💻 I'm actively looking for work!</td>
-        </tr>
-        <tr>
-            <td rowspan=3>🌍 I'm based in Halesowen, West Midlands</td>
-        </tr>
-        <tr>
-            <td>📫 <a href="mailto:Jordanwalters681+tech@googlemail">Jordanwalters681+tech@googlemail</a> </td>
-        </tr>
-        <tr>
-            <td>🤝 https://www.linkedin.com/in/-jordan-walters</td>
-        </tr>
-    </tbody>
-</table>
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan=2>Junior Software Engineer</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>📝 HTML, CSS, JavaScript, React, Next.js</td>
+                <td>💻 I'm actively looking for work!</td>
+            </tr>
+            <tr>
+                <td rowspan=3>🌍 Based in Birmingham, UK</td>
+            </tr>
+            <tr>
+                <td>📫 <a href="mailto:Jordanwalters681+tech@googlemail">Jordanwalters681+tech@googlemail</a> </td>
+            </tr>
+            <tr>
+                <td>🤝 https://www.linkedin.com/in/-jordan-walters</td>
+            </tr>
+        </tbody>
+    </table>
+
+<!-- Tech stack -->
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="playwright" height="40" width="40"/>
+</div>
 
 </br>
 I love coding and the creative solutions that can be solved with it, I am currently using Javascript and exploring various libraries and frameworks, like React and Next.js. I have experience applying agile working practices to both team and individual projects, which I learned during my time at an Intensive 16-week coding Bootcamp called "School of Code".
