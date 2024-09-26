@@ -7,7 +7,7 @@
     <table>
         <thead>
             <tr>
-                <th colspan=2>Junior Software Engineer</th>
+                <th colspan=2>Software Engineer</th>
             </tr>
         </thead>
         <tbody>
