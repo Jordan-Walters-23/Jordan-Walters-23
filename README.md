@@ -47,11 +47,11 @@
 </br>
 I love coding and the creative solutions that can be solved with it, I am currently using Javascript and exploring various libraries and frameworks, like React and Next.js. I have experience applying agile working practices to both team and individual projects, which I learned during my time at an Intensive 16-week coding Bootcamp called "School of Code".
 
-I am eager to use my skills to build Web Dev, IoT and Robotics projects. I’m looking for opportunities to grow as a developer and collaborate with teams to develop innovative products.
+I am eager to use my skills to build Web Dev<!--, IoT, and Robotics--> projects. I’m looking for opportunities to grow as a developer and collaborate with teams to develop innovative products.
 
 # Projects
 ## "Portfolio website" (In progress)
-<b>Project summary:</b> I am building this site not only as a place to display my projects but to also improve my knowledge of building full-stack applications in Next.js. I have utilised the flexibility between SSR and CSR  that Next.js offers [Repo](https://github.com/Jordan-Walters-23/full-stack-next-js-app)
+<b>Project summary:</b> I am building this site not only as a place to display my projects but to also improve my knowledge of building full-stack applications in Next.js. I have utilised the flexibility between SSR and CSR  that Next.js offers. [Repo](https://github.com/Jordan-Walters-23/full-stack-next-js-app)
 
 <b>Tech Stack:</b> Auth.js, Next.js 15 App Router, MongoDB
 ||
