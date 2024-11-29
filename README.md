@@ -54,8 +54,17 @@ I love coding and the creative solutions that can be solved with it, I am curren
 In addition to coding, I enjoy designing and building in areas like electronics, and mechanical assembly. I am eager to use my skills to build Web Dev, IoT and Robotics projects. I’m looking for opportunities to grow as a developer and collaborate with teams to develop innovative products. If you're interested in working together, feel free to contact me.
 
 # Projects
+## "Portfolio website" (In progress)
+<b>Project summary:</b> I am building this site not only as a place to display my projects but to also improve my knowledge of building full-stack applications in Next.js. I have utilised the flexibility between SSR and CSR  that Next.js offers [Repo](https://github.com/Jordan-Walters-23/full-stack-next-js-app)
+
+<b>Tech Stack:</b> Auth.js, Next.js 15 App Router, MongoDB
+||
+| ------------|
+| <!--<img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/673d677a-5403-46f6-8fab-9bc298c3f4bc">--> |
+
+# Projects
 ## "Guess the song" (In progress)
-<b>Project summary:</b> This app idea came from my passion for language learning and music. I wanted to find a way to enjoy both in a lighthearted way that’s personalised to me. I often find myself looking up song lyrics and finding a new appreciation for the song and artist. Users will also be able to learn more diverse vocab which is beyond what they teach on most language learning apps. [App Repo](https://github.com/Jordan-Walters-23/guess-the-song)
+<b>Project summary:</b> This app idea came from my passion for language learning and music. I wanted to find a way to enjoy both in a lighthearted way that’s personalised to me. I often find myself looking up song lyrics and finding a new appreciation for the song and artist. Users will also be able to learn more diverse vocab which is beyond what they teach on most language learning apps. [Repo](https://github.com/Jordan-Walters-23/guess-the-song)
 |App Wireframe|
 | ------------|
 | <img src="https://github.com/Jordan-Walters-23/Jordan-Walters-23/assets/128825567/673d677a-5403-46f6-8fab-9bc298c3f4bc"> |
