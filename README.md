@@ -15,7 +15,7 @@
                 <td rowspan=3><img src="https://komarev.com/ghpvc/?username=Jordan-Walters-23&color=0c8d82&style=for-the-badge&abbreviated=true" alt="" /></td>
             </tr>
             <tr>
-                <td>📫 <a href="mailto:Jordanwalters681@googlemail">Jordanwalters681+tech@googlemail</a> </td>
+                <td>📫 <a href="mailto:Jordanwalters681@googlemail">Jordanwalters681@googlemail</a> </td>
             </tr>
             <tr>
                 <td>🤝 https://www.linkedin.com/in/-jordan-walters</td>
