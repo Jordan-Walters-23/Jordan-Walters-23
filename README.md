@@ -51,7 +51,8 @@ I am eager to use my skills to build Web Dev<!--, IoT, and Robotics--> projects.
 
 # Projects
 ## "Portfolio website" (In progress)
-<b>Project summary:</b> I am building this site not only as a place to display my projects but to also improve my knowledge of building full-stack applications in Next.js. I have utilised the flexibility between SSR and CSR  that Next.js offers. [Repo](https://github.com/Jordan-Walters-23/full-stack-next-js-app)
+<b>Project summary:</b> I am building this site not only as a place to display my projects but to also improve my knowledge of building full-stack applications in Next.js. I have utilised the flexibility between SSR and CSR  that Next.js offers. 
+[Repo](https://github.com/Jordan-Walters-23/full-stack-next-js-app) <br/> [Deployed app](https://jordanwalters.vercel.app/)
 
 <b>Tech Stack:</b> Auth.js, Next.js 15 App Router, MongoDB
 ||
